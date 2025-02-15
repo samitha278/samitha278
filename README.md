@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Samitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;ML+%2F+AI+Enthusiast;Open+Source+Contributor;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Electronic+Engineer;ML+%2F+AI+ML+Enthusiast;Open+Source+Contributor;Always+learning+new+things!">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ### **💻 Programming Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Matlab](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=matlab&logoColor=black)
+![Matlab](https://img.shields.io/badge/Matlab-F7DF1E?style=for-the-badge&logo=matlab&logoColor=black)
 
 ### **⚙️ Frameworks & Libraries**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
