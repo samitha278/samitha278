@@ -1,18 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Samitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Electronic+Engineer;ML+%2F+AI+ML+Enthusiast;Open+Source+Contributor;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Electronic+Engineer;ML+%2F+AI+ML+Enthusiast;Always+learning+new+things!">
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Machine Learning & AI projects**  
-- 🌱 I’m learning **Deep Learning, MLOps**  
-- 💬 Ask me about **C++, Python, ML**  
-- ⚡ Fun fact: **I love problem-solving and competitive programming!**  
-
----
 
 ## 🛠️ Tech Stack
 
