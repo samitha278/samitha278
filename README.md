@@ -1,6 +1,5 @@
-# Samitha
-
-**Electronic Engineer** • **Machine Learning & Deep Learning**
+**Electronic Engineering undergrad** 
+**Machine Learning & Deep Learning**
 
 ---
 
@@ -12,7 +11,7 @@
 **Data:** NumPy, Pandas, OpenCV  
 **Tools:** Git, Jupyter 
 
-
+---
 
 ## GitHub Activity
 
