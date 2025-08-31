@@ -1,15 +1,15 @@
-**Electronic Engineering undergrad** 
-**Machine Learning & Deep Learning**
+**Electronic Engineering Undergrad** <br/>
+**Machine Learning, Deep Learning, NLP**
 
 ---
 
 
 ## Technical Expertise
 
-**Languages:** C++, Python, MATLAB  
-**ML/AI:** TensorFlow, PyTorch, scikit-learn  
-**Data:** NumPy, Pandas, OpenCV  
-**Tools:** Git, Jupyter 
+**Languages   :** C++, Python, MATLAB  
+**ML/AI       :** TensorFlow, PyTorch, scikit-learn  
+**Data        :** NumPy, Pandas, OpenCV  
+**Tools       :** Git, Jupyter 
 
 ---
 
