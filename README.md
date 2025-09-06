@@ -1,5 +1,5 @@
 **Electronic Engineering Undergrad** <br/>
-**Machine Learning, Deep Learning, NLP**
+**Machine Learning, Deep Learning, NLP, LLM, Comuter Vision**
 
 ---
 
@@ -13,6 +13,12 @@
 
 ---
 
+## Current Projects
+
+- **[GPT from Scratch](https://github.com/samitha278/gpt-from-scratch)** - Building a GPT model implementation from the ground up
+- **[GPT Tokenizer from Scratch](https://github.com/samitha278/gpt-tokenizer-from-scratch)** - Creating a tokenizer for GPT models
+
+---
 ## GitHub Activity
 
 <p align="center">
