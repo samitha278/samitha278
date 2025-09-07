@@ -1,5 +1,5 @@
 **Electronic Engineering Undergrad** <br/>
-**Machine Learning, Deep Learning, NLP, LLM, Comuter Vision**
+**Machine Learning, Deep Learning, NLP, LLM, Computer Vision**
 
 ---
 
