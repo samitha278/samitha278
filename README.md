@@ -1,15 +1,6 @@
-**Electronic Eng Undergrad** <br/>
-**ML, DL, CV, NLP, LLM**
+**Deep Learning**
 
 ---
-
-
-## Current Projects
-- **[GPT-2 from Scratch](https://github.com/samitha278/gpt2-lite)** - Reproduce GPT-2 
-- **[GPT Tokenizer from Scratch](https://github.com/samitha278/gpt-tokenizer-from-scratch)** - Creating a tokenizer for GPT models
-
----
-
 
 ### Connect
 
